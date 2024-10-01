@@ -1,0 +1,8 @@
+name: SmoothTP
+version: '1.0-SNAPSHOT'
+main: com.liquidskr.smoothTP.SmoothTP
+api-version: '1.20'
+commands:
+  smtp:
+    description: 플레이어간 텔레포트 기능을 제공합니다.
+    usage: /<command> [대충알아써라]
